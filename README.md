@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estou aprendendo:  java, HTML, CSS, JavaScript.
 - ⚡ Curiosidade: Formado em Direito :p
 
-##contato
+## contato
 
 <div>
 <a href="https://www.linkedin.com/in/manuel-fagundes-6855a1208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
