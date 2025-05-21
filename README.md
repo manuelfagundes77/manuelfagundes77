@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
  # Olá, me chamo Manuel
 
-- 🌱 Atualmente estou aprendendo:  java, HTML, CSS, JavaScript.
+- 🌱 Atualmente estou aprendendo:  java, HTML, CSS, JavaScript, React.js, node.js
 - ⚡ Curiosidade: Formado em Direito :p
+- Estudante de Analise e desenvolvimento de sistemas
 
 ## contato
 
